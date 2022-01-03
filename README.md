@@ -1,7 +1,7 @@
 # KaliOnRasberryPi
 This is a place to store documentation of one way to setup and use the Kali operating system on a Raspberry Pi (RPi).
 
-The[Setup of Kali on Raspberry Pi 400 with Pi Imager.pdf](https://github.com/shannon-beck/KaliOnRasberryPi/files/7800216/Setup.of.Kali.on.Raspberry.Pi.400.with.Pi.Imager.pdf)
+The [Setup of Kali on Raspberry Pi 400 with Pi Imager.pdf](https://github.com/shannon-beck/KaliOnRasberryPi/files/7800216/Setup.of.Kali.on.Raspberry.Pi.400.with.Pi.Imager.pdf)
 file is intended as a step-by-step guide to help those who are new to RPi's to be able to setup their own system for cybersecurity.
 
 Hardware used when building this guide: 
