@@ -8,8 +8,8 @@ This is a place to store documentation of one possible setup and use the Kali op
 
 ## Hardware used when building this guide: 
   
-    - [Raspberry Pi 400 Computer Kit ~$100](https://www.adafruit.com/raspberrypi400) - this is the RPi in a keyboard that is such a neat, affordable platform.
-    - 32-GB MicroSD card, specifically the [Silicon Power 3D NAND 32GB 2-Pack MicroSD Card with Adapter](https://smile.amazon.com/dp/B07RSXSYJC/ref=cm_sw_em_r_mt_dp_DJEP45BBQ4GTBKMSXHGW).
+* [Raspberry Pi 400 Computer Kit ~$100](https://www.adafruit.com/raspberrypi400) - this is the RPi in a keyboard that is such a neat, affordable platform.
+* 32-GB MicroSD card, specifically the [Silicon Power 3D NAND 32GB 2-Pack MicroSD Card with Adapter](https://smile.amazon.com/dp/B07RSXSYJC/ref=cm_sw_em_r_mt_dp_DJEP45BBQ4GTBKMSXHGW).
  
 ## Setup of the System:
 
@@ -20,11 +20,11 @@ file is intended as a step-by-step guide to help those who are new to RPi's to b
 
 ## Suggested Order of Activities
 
-    1. White Hat Agreement (White Hat Agreement Examples)
-    2. Raspberry Pi Intro / Overview (RPi Intro.pdf)
-    3. Linux Lab and MIT Terminus (Linux directory-slides and hands-on activity)
-    4. Networking and Wireshark (Wireshark directory-slides and hands-on activity)
-    5. Password Auditing with John the Ripper (Passwords directory-slides and hands-on activity)
+1. White Hat Agreement (White Hat Agreement Examples)
+2. Raspberry Pi Intro / Overview (RPi Intro.pdf)
+3. Linux Lab and MIT Terminus (Linux directory-slides and hands-on activity)
+4. Networking and Wireshark (Wireshark directory-slides and hands-on activity)
+5. Password Auditing with John the Ripper (Passwords directory-slides and hands-on activity)
 
 
  ## Helpful resources using while creating the configuration guide: 
