@@ -8,8 +8,8 @@ This is a place to store documentation of one possible setup and use the Kali op
 
 ## Hardware used when building this guide: 
   
-    * [Raspberry Pi 400 Computer Kit ~$100](https://www.adafruit.com/raspberrypi400) - this is the RPi in a keyboard that is such a neat, affordable platform.
-    * 32-GB MicroSD card, specifically the [Silicon Power 3D NAND 32GB 2-Pack MicroSD Card with Adapter](https://smile.amazon.com/dp/B07RSXSYJC/ref=cm_sw_em_r_mt_dp_DJEP45BBQ4GTBKMSXHGW).
+    - [Raspberry Pi 400 Computer Kit ~$100](https://www.adafruit.com/raspberrypi400) - this is the RPi in a keyboard that is such a neat, affordable platform.
+    - 32-GB MicroSD card, specifically the [Silicon Power 3D NAND 32GB 2-Pack MicroSD Card with Adapter](https://smile.amazon.com/dp/B07RSXSYJC/ref=cm_sw_em_r_mt_dp_DJEP45BBQ4GTBKMSXHGW).
  
 ## Setup of the System:
 
