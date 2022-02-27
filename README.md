@@ -1,5 +1,9 @@
 # KaliOnRasberryPi
-This is a place to store documentation of one possible setup and use the Kali operating system on a Raspberry Pi (RPi).
+This is documentation of how to setup and run cybersecurity-focused labs using the Kali operating system on a Raspberry Pi (RPi). 
+
+Target audience: high school students or lower-level undergraduate students.
+
+Keywords: Kali, Linux, MIT Terminus, Raspberry Pi, Raspberry Pi 400, Wireshark, John the Ripper 
 
 ## Disclaimer: 
 **_Use at your own risk. When configuring any hardware or software, take precautions such as firewalls, strong passwords, and changing default passwords._**
@@ -10,6 +14,7 @@ This is a place to store documentation of one possible setup and use the Kali op
   
 * [Raspberry Pi 400 Computer Kit ~$100](https://www.adafruit.com/raspberrypi400) - this is the RPi in a keyboard that is such a neat, affordable platform.
 * 32-GB MicroSD card, specifically the [Silicon Power 3D NAND 32GB 2-Pack MicroSD Card with Adapter](https://smile.amazon.com/dp/B07RSXSYJC/ref=cm_sw_em_r_mt_dp_DJEP45BBQ4GTBKMSXHGW).
+* [USB 3 Memory card reader/writer](https://smile.amazon.com/gp/product/B01ARAH6O0/) to setup the microSD cards with Raspberry Pi or Kali operating systems OS from Windows system using the [Raspberry Pi Imager software](https://www.raspberrypi.com/software/). 
  
 ## Setup of the System:
 
