@@ -4,7 +4,7 @@ This is a place to store documentation of one possible setup and use the Kali op
 ## Disclaimer: 
 **_Use at your own risk. When configuring any hardware or software, take precautions such as firewalls, strong passwords, and changing default passwords._**
 
-**_Be sure that you have the correct permissions to run these labs on the network._**
+**_Be sure that you have the permissions to run these labs on the network._**
 
 ## Hardware used when building this guide: 
   
